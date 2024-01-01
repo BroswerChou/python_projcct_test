@@ -18,6 +18,7 @@ def tar_data(srcpath, targetpath):
     print("文件压缩完毕")
     tarobj.getnames()
 tar_data("D:\\ceshi", "D:\\ceshi.tar")
+# 修改测试
 
 
 
